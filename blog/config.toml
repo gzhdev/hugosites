@@ -1,8 +1,8 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://example.com/"
-title = "Hugo 主题 MemE"
+baseURL = "https://www.tcol.eu.org/"
+title = "光子狐的笔记本"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "Tcol"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "gzhdev@outlook.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    # motto = "Viva La Vida"
     # 头像
-    avatar = "/icons/apple-touch-icon.png"
+    # avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://io-oi.me/"
+    # website = "https://io-oi.me/"
     # 推特
-    twitter = "reuixiy"
+    # twitter = "reuixiy"
 
 # 相关文章
 [related]
@@ -560,7 +560,7 @@ uglyURLs = false
     # KaTeX 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableKaTeX = false
+    enableKaTeX = true
     # 说明：文章的 Front Matter 中的 `katex`
     #      的优先级高于此处
 
@@ -798,7 +798,7 @@ uglyURLs = false
     # 文章目录
 
     # 是否开启（全局设置）
-    enableTOC = false
+    enableTOC = true
     # 说明：文章的 Front Matter 中的 `toc`
     #      的优先级高于此处
 
@@ -958,7 +958,7 @@ uglyURLs = false
     ######################################
     ## 字号（单位：px）
 
-    fontSize = 16
+    fontSize = 20
 
     ######################################
     ## 制表符的宽度
@@ -1257,7 +1257,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = true
+    enableSocials = false
     # 说明：见 data/Socials.toml
 
 
